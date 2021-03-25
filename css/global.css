@@ -89,6 +89,9 @@ nav a, footer a {
 .nav-link .active {
     cursor: default;
 }
+.nav-item {
+    color: dimgrey;
+}
 
 img {
     border-radius: 2px 2px 0 0;
